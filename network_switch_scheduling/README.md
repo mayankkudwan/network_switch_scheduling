@@ -35,8 +35,7 @@ No other libraries needed — `collections`, `itertools`, `io`, `os`, `sys` are 
 
 ## ▶️ How to Run
 
-
-### Option 2 — Google Colab
+### Google Colab
 1. Upload `switch_simulation.py` to Colab
 2. In a new cell, run:
 ```python
